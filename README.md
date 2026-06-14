@@ -1,64 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ritika Palai</h1>
 
-<h3 align="center">
-Business Intelligence | AI & Data Analytics Learner | Aspiring Business Analyst
-</h3>
-
----
+<p align="center">
+Aspiring Business Analyst | AI & Data Analytics Enthusiast
+</p>
 
 ### 👩‍💼 About Me
 
-I am a Computer Science Engineering student with a strong interest in leveraging data, analytics, and artificial intelligence to solve real-world business challenges.
----
+Passionate about leveraging data, analytics, and artificial intelligence to solve business problems and drive data-driven decision making.
 
-### 🌱 Currently Learning - I'm currently learning AI analytics
+### 🛠️ Tech Stack
 
----
-
-### 🛠️ Technical Skills
-
-#### Analytics & Data
-
-- SQL
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Predictive Analytics
-- Statistical Analysis
-
-#### Programming
-
-- Python
-- Java
-- C++
-- MATLAB
-
-#### Web Technologies
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-
-#### Databases
-
-- MySQL
-- MongoDB
-
-#### Cloud & Tools
-
-- AWS
-- Git
-- GitHub
-- Postman
----
+Business Analytics • Business Intelligence • SQL • Python • Data Analytics • Data Visualization • Machine Learning • AI • MySQL • MongoDB • AWS • Git
 
 ### 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: your-linkedin-profile
-- 💻 GitHub: https://github.com/ritikapalai-creator
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
----
+💼 LinkedIn: your-linkedin-profile
+
+💻 GitHub: github.com/ritikapalai-creator
