@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritika Palai</h1>
 
-<!--
-**ritikapalai-creator/ritikapalai-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Engineering Student | AI & ML Enthusiast | Researcher
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🔍 Passionate about Computer Vision and Research
+- 📄 Research Paper accepted in IJISRT
+- 🌱 Currently learning Full-Stack Development and AI Applications
+- 💡 Building projects in AI, Cybersecurity, and Smart City Analytics
+
+---
+
+### 🚀 Research Work
+
+📌 **Edge-Based Object Counting System for Smart City Applications: An Adaptive Morphological Segmentation Framework**
+
+- MATLAB-based Computer Vision Project
+- Accepted for publication in IJISRT
+- Focus Areas:
+  - Image Processing
+  - Object Detection
+  - Morphological Segmentation
+  - Smart City Analytics
+
+---
+
+### 🛠️ Languages & Tools
+
+- Python
+- Java
+- C++
+- MATLAB
+- MySQL
+- MongoDB
+- Node.js
+- Express.js
+- React
+- Git & GitHub
+- AWS
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: [Add your LinkedIn URL]
+- GitHub: https://github.com/ritikapalai-creator
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikapalai-creator&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikapalai-creator&layout=compact)
