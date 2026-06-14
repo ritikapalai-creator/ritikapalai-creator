@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritika Palai</h1>
 
-<p align="center">
-Aspiring Business Analyst | AI & Data Analytics Enthusiast
-</p>
-
 ### 👩‍💼 About Me
 
 Passionate about leveraging data, analytics, and artificial intelligence to solve business problems and drive data-driven decision making.
