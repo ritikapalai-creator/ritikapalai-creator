@@ -1,61 +1,64 @@
 <h1 align="center">Hi 👋, I'm Ritika Palai</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI & ML Enthusiast | Researcher
+Business Intelligence | AI & Data Analytics Learner | Aspiring Business Analyst
 </h3>
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💼 About Me
 
-- 🎓 Computer Science Engineering Student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🔍 Passionate about Computer Vision and Research
-- 📄 Research Paper accepted in IJISRT
-- 🌱 Currently learning Full-Stack Development and AI Applications
-- 💡 Building projects in AI, Cybersecurity, and Smart City Analytics
+I am a Computer Science Engineering student with a strong interest in leveraging data, analytics, and artificial intelligence to solve real-world business challenges.
+---
+
+### 🌱 Currently Learning - I'm currently learning AI analytics
 
 ---
 
-### 🚀 Research Work
+### 🛠️ Technical Skills
 
-📌 **Edge-Based Object Counting System for Smart City Applications: An Adaptive Morphological Segmentation Framework**
+#### Analytics & Data
 
-- MATLAB-based Computer Vision Project
-- Accepted for publication in IJISRT
-- Focus Areas:
-  - Image Processing
-  - Object Detection
-  - Morphological Segmentation
-  - Smart City Analytics
+- SQL
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Predictive Analytics
+- Statistical Analysis
 
----
-
-### 🛠️ Languages & Tools
+#### Programming
 
 - Python
 - Java
 - C++
 - MATLAB
-- MySQL
-- MongoDB
+
+#### Web Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
 - Node.js
 - Express.js
-- React
-- Git & GitHub
-- AWS
 
+#### Databases
+
+- MySQL
+- MongoDB
+
+#### Cloud & Tools
+
+- AWS
+- Git
+- GitHub
+- Postman
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
-- GitHub: https://github.com/ritikapalai-creator
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: your-linkedin-profile
+- 💻 GitHub: https://github.com/ritikapalai-creator
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikapalai-creator&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikapalai-creator&layout=compact)
