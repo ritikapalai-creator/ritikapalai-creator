@@ -14,8 +14,8 @@ Business Analytics • Business Intelligence • SQL • Python • Data Analyti
 
 ### 📫 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: ritikapalai@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/ritika-palai-8a1346295/
 
-💻 GitHub: github.com/ritikapalai-creator
+
